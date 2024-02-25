@@ -2,6 +2,12 @@
 
 A FlutterFlow-compatible widget that renders any text-based data into a QR code. Your data is never sent to a third party to generate the QR code. Perfect for data privacy and use cases with limited network connectivity. The anchors (corners) color is customizable via FlutterFlow editor UI.
 
+![1](https://github.com/kyperlink/KaiQRCodeRenderWidget/assets/457429/bd80d866-65db-4394-84c0-4260cbf4ba2b)
+
+![2](https://github.com/kyperlink/KaiQRCodeRenderWidget/assets/457429/4553cfc7-a792-4ecc-aba0-64cd4fcf19b9)
+
+![Screenshot 2024-02-25 093924](https://github.com/kyperlink/KaiQRCodeRenderWidget/assets/457429/0f6d4844-9948-4acd-888f-6362548e5e21)
+
 ## Getting Started
 
 1. Copy the custom code `KaiQRCodeRenderWidget` into your project.
